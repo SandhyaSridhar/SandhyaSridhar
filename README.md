@@ -26,7 +26,7 @@ me.welcomeMessage()
 
 ```
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SandhyaSridhar&show_icons=true&locale=en&theme=vue-dark&hide_border=1&hide=issues,contribs&include_all_commits=1" alt="Sandhya's Git Stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandhyaSridhar&theme=vue-dark&hide_border=1&layout=compact" alt="Sandhya's Stats" /></p
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SandhyaSridhar&show_icons=true&locale=en&theme=vue-dark&hide_border=1&hide=issues,contribs&include_all_commits=1" alt="Sandhya's Git Stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandhyaSridhar&theme=vue-dark&hide_border=1&layout=compact" alt="Sandhya's Stats" /></p>
 
 <!--
 **SandhyaSridhar/SandhyaSridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
