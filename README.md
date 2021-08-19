@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+```
+Class AIEnthusiast:
+  
+  def __init__(self):
+    self.name = "Sandhya Sridhar"
+    self.student = True
+    self.interests = ["Machine Learning" , "Computer Vision" , "Natural Language Processing" , "Deep Learning"]
+    
+  def welcomeMessage(self):
+    print("Welcome to my profile!")
+    
+me = AIEnthusiast()
+me.welcomeMessage()
+
+```
+
 <!--
 **SandhyaSridhar/SandhyaSridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
