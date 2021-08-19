@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```
+```python
 Class AIEnthusiast:
   
   def __init__(self):
