@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=Hello%20There👋&amp;fontSize=40&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Welcome%20To%20Sandhya's%20Corner%20&amp;descAlignY=51&amp;descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=Hello%20There👋&amp;fontSize=40&amp;animation=fadeIn&amp;fontAlignY=38&amp;descAlignY=51&amp;descAlign=62)
 
 <p align="center"> <a href="https://www.linkedin.com/in/sandhyasridharv/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &#8287;&#8287;&#8287; <a href="https://www.kaggle.com/sandhyasridhar" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
