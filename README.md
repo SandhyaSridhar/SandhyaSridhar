@@ -11,7 +11,8 @@ Class AboutMe:
   
   def __init__(self):
     self.name = "Sandhya Sridhar"
-    self.student = True
+    self.experience = True
+    self.yearsofexperience = "1 Year 7 months"
     self.interests = ["Machine Learning" , "Computer Vision" , "Natural Language Processing" , "Deep Learning"]
     
   def skills(self):
